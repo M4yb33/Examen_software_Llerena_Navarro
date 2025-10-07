@@ -2,8 +2,10 @@ using System;
 
 namespace Examen_software_Llerena_Navarro.Interfaces
 {
+    // Interface que define el contrato para enviar notificaciones (ISP)
     public interface LNINotificationChannel
     {
-        // Aquí van los métodos y propiedades de la interfaz de notificación
+        // MÃ©todo que implementarÃ¡n todas las notificaciones
+        void LNSendNotification(string message);
     }
 }

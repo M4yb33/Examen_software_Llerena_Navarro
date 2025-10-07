@@ -4,7 +4,7 @@ using Examen_software_Llerena_Navarro.Services;
 
 namespace Examen_software_Llerena_Navarro.PaymentMethods
 {
-    internal class LNPayPal : LNIPaymentMethods
+    public class LNPayPal : LNIPaymentMethods // Cambiado a public
     {
         public decimal Amount { get; set; }
         public string PaymentType { get; set; }

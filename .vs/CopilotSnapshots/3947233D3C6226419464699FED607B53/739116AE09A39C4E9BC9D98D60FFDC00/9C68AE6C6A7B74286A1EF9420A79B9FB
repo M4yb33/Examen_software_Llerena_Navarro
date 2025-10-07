@@ -1,9 +1,0 @@
-﻿using System;
-
-namespace Examen_software_Llerena_Navarro.Interfaces
-{
-    public interface LNINotificationChannel
-    {
-        // Aquí van los métodos y propiedades de la interfaz de notificación
-    }
-}
