@@ -12,7 +12,6 @@ namespace Examen_software_Llerena_Navarro.PaymentProcessingSystem
     {
         public static void Main(string[] args)
         {
-<<<<<<< HEAD
             // Mostrar mensaje de inicio
             ConsoleOutputService.DisplayMessage("=== Sistema de Notificaciones ===\n");
 
@@ -38,7 +37,6 @@ namespace Examen_software_Llerena_Navarro.PaymentProcessingSystem
             // Ejecutar el pago usando el controlador general
             generalController.ExecutePayment(paymentMethodApple);
             generalController.ExecutePayment(paymentMethodPayPal);
-=======
             ConsoleOutputService.DisplayMessage("\n=== Sistema de Notificaciones y Pagos ===\n");
 
             // Sistema de Notificaciones
@@ -65,20 +63,6 @@ namespace Examen_software_Llerena_Navarro.PaymentProcessingSystem
             ConsoleOutputService.DisplayMessage("\n--- Prueba de Pagos ---");
             ConsoleOutputService.DisplayMessage("\nIniciando el proceso de pago...");
 
-            try
-            {
-                // Crear instancia del controlador de pago
-                var applePayController = new LNApplePayController();
-
-                // Ejecutar el pago
-                applePayController.ExecutePayment(100.50m, "ApplePay", "applePayAccount123", "TXN123456");
-                ConsoleOutputService.DisplaySuccess("Proceso de pago completado correctamente");
-            }
-            catch (Exception ex)
-            {
-                ConsoleOutputService.DisplayError($"Error en el proceso de pago: {ex.Message}");
-            }
->>>>>>> 07600c62c20ccbc2cd85876f4b5b9fd326b2b867
 
             ConsoleOutputService.DisplayMessage("\nPresione cualquier tecla para salir...");
             Console.ReadKey();
