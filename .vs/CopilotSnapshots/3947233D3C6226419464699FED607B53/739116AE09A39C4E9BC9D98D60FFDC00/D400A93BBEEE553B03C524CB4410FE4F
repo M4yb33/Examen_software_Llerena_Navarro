@@ -1,11 +1,11 @@
-using System;
+﻿using System;
 
 namespace Examen_software_Llerena_Navarro.Interfaces
 {
     public interface LNIPaymentMethods
     {
-        // M�todo para procesar el pago
-        void ProcessPayment();
+        // Método para procesar el pago, ahora devuelve un bool y razón
+        bool ProcessPayment(out string resultMessage);
 
         decimal Amount { get; set; }         // Monto del pago
         string PaymentType { get; set; }     // Tipo de pago
