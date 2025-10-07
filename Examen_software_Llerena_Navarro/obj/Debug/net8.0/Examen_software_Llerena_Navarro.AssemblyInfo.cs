@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Examen_software_Llerena_Navarro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fddc849f05b9020c710e7100aa692e23c76205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd55de7c12e708b4a0a267f3fd3503d1ae1f487d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Examen_software_Llerena_Navarro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Examen_software_Llerena_Navarro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

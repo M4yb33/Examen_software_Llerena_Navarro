@@ -3,31 +3,6 @@ C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Exam
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.AssemblyInfo.cs
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.sourcelink.json
-<<<<<<< HEAD
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.exe
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.deps.json
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.runtimeconfig.json
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.dll
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.pdb
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.GeneratedMSBuildEditorConfig.editorconfig
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.AssemblyInfoInputs.cache
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.AssemblyInfo.cs
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.csproj.CoreCompileInputs.cache
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.sourcelink.json
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.dll
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\refint\Examen_software_Llerena_Navarro.dll
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.pdb
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.genruntimeconfig.cache
-D:\SEXTO\PATRONES_DE_SOFTWARE\1p\Materia\Prueba2Unidad\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\ref\Examen_software_Llerena_Navarro.dll
-=======
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.exe
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.deps.json
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.runtimeconfig.json
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.dll
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\bin\Debug\net8.0\Examen_software_Llerena_Navarro.pdb
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.dll
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\refint\Examen_software_Llerena_Navarro.dll
 C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.pdb
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.genruntimeconfig.cache
-C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\ref\Examen_software_Llerena_Navarro.dll
->>>>>>> 37961091ed1fae1f82a278e787f4f630d8af2bab

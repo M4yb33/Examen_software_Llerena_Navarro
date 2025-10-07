@@ -12,6 +12,7 @@ namespace Examen_software_Llerena_Navarro.PaymentProcessingSystem
     {
         public static void Main(string[] args)
         {
+<<<<<<< HEAD
             // Mostrar mensaje de inicio
             ConsoleOutputService.DisplayMessage("=== Sistema de Notificaciones ===\n");
 
@@ -37,11 +38,49 @@ namespace Examen_software_Llerena_Navarro.PaymentProcessingSystem
             // Ejecutar el pago usando el controlador general
             generalController.ExecutePayment(paymentMethodApple);
             generalController.ExecutePayment(paymentMethodPayPal);
+=======
+            ConsoleOutputService.DisplayMessage("\n=== Sistema de Notificaciones y Pagos ===\n");
 
-            // Usar el servicio de consola para mostrar el mensaje de finalización
-            ConsoleOutputService.DisplayMessage("Proceso de pago completado.");
+            // Sistema de Notificaciones
+            ConsoleOutputService.DisplayMessage("\n--- Prueba de Notificaciones ---");
+            
+            try
+            {
+                // Crear y usar el controlador de Email
+                ConsoleOutputService.DisplayMessage("\nProcesando notificación por Email:");
+                var emailController = new LNEmailNotificationController();
+                emailController.SendEmailNotification("Notificación exitosa para Gabriel Llerena");
 
-            Console.WriteLine("\nPresione cualquier tecla para salir...");
+                // Crear y usar el controlador de WhatsApp
+                ConsoleOutputService.DisplayMessage("\nProcesando notificación por WhatsApp:");
+                var whatsappController = new LNWhatsappNotificationController();
+                whatsappController.SendWhatsappNotification("Notificación exitosa para Maybelline Navarro");
+            }
+            catch (Exception ex)
+            {
+                ConsoleOutputService.DisplayError($"Error en el sistema de notificaciones: {ex.Message}");
+            }
+
+            // Sistema de Pagos
+            ConsoleOutputService.DisplayMessage("\n--- Prueba de Pagos ---");
+            ConsoleOutputService.DisplayMessage("\nIniciando el proceso de pago...");
+
+            try
+            {
+                // Crear instancia del controlador de pago
+                var applePayController = new LNApplePayController();
+
+                // Ejecutar el pago
+                applePayController.ExecutePayment(100.50m, "ApplePay", "applePayAccount123", "TXN123456");
+                ConsoleOutputService.DisplaySuccess("Proceso de pago completado correctamente");
+            }
+            catch (Exception ex)
+            {
+                ConsoleOutputService.DisplayError($"Error en el proceso de pago: {ex.Message}");
+            }
+>>>>>>> 07600c62c20ccbc2cd85876f4b5b9fd326b2b867
+
+            ConsoleOutputService.DisplayMessage("\nPresione cualquier tecla para salir...");
             Console.ReadKey();
         }
     }
