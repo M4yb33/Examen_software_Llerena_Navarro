@@ -1,0 +1,25 @@
+﻿using Examen_software_Llerena_Navarro.Interfaces;
+using Examen_software_Llerena_Navarro.Services;
+
+namespace Examen_software_Llerena_Navarro.Controller
+{
+    public class LNGeneralPaymentController
+    {
+        // Método para ejecutar el pago con cualquier tipo de implementación de LNIPaymentMethods
+        public void ExecutePayment(LNIPaymentMethods paymentMethod)
+        {
+            // Llamamos al método ProcessPayment() de la clase de pago, sin importar qué implementación sea
+            string resultMessage;
+            bool paymentSuccess = paymentMethod.ProcessPayment(out resultMessage);
+
+            // Mostrar el resultado a través del servicio de consola
+            ConsoleOutputService.DisplayMessage(resultMessage);
+
+            // Si el pago no fue exitoso, mostrar un mensaje adicional
+            if (!paymentSuccess)
+            {
+                ConsoleOutputService.DisplayError("El pago no fue procesado correctamente.");
+            }
+        }
+    }
+}

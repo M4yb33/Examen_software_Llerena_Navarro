@@ -21,47 +21,23 @@ namespace Examen_software_Llerena_Navarro.PaymentMethods
         }
 
         // Implementación del método requerido por la interfaz
-        public void ProcessPayment()
-        {
-            try
-            {
-                if (string.IsNullOrEmpty(PayPalAccount))
-                {
-                    string resultMessage = "La cuenta de PayPal no está configurada.";
-                    ConsoleOutputService.DisplayError(resultMessage);
-                    return;
-                }
-                string successMessage = $"Pago de {Amount} realizado con éxito usando PayPal. ID de transacción: {TransactionId}";
-                ConsoleOutputService.DisplaySuccess(successMessage);
-            }
-            catch (Exception ex)
-            {
-                string errorMessage = $"Error al procesar el pago: {ex.Message}";
-                ConsoleOutputService.DisplayError(errorMessage);
-            }
-        }
-
-        // Método adicional opcional para compatibilidad
         public bool ProcessPayment(out string resultMessage)
         {
             try
             {
+                // Validación del PayPalAccount
                 if (string.IsNullOrEmpty(PayPalAccount))
                 {
                     resultMessage = "La cuenta de PayPal no está configurada.";
                     ConsoleOutputService.DisplayError(resultMessage);
-                    return false;
+                    return false; // Pago fallido
                 }
+
+                // Si la cuenta de PayPal está bien configurada, procesamos el pago
                 resultMessage = $"Pago de {Amount} realizado con éxito usando PayPal. ID de transacción: {TransactionId}";
                 ConsoleOutputService.DisplaySuccess(resultMessage);
-                return true;
+                return true; // Pago exitoso
             }
             catch (Exception ex)
             {
                 resultMessage = $"Error al procesar el pago: {ex.Message}";
-                ConsoleOutputService.DisplayError(resultMessage);
-                return false;
-            }
-        }
-    }
-}
