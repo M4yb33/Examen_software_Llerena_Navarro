@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentmethods\\applepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentmethods\\applepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentmethods\\lngooglepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentmethods\\lngooglepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\lnconsoleoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\lnconsoleoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\controller\\lnapplepaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\controller\\lnapplepaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentmethods\\lnapplepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentmethods\\lnapplepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\interfaces\\lninotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\interfaces\\lninotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\interfaces\\lnipaymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\interfaces\\lnipaymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentmethods\\lnpaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentmethods\\lnpaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentmethods\\lngooglepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentmethods\\lngooglepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +58,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LNApplePayController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Controller\\LNApplePayController.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\Controller\\LNApplePayController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Controller\\LNApplePayController.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\Controller\\LNApplePayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:23:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LNConsoleOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNConsoleOutputService.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNConsoleOutputService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNConsoleOutputService.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNConsoleOutputService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:16:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LNINotificationChannel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Interfaces\\LNINotificationChannel.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\Interfaces\\LNINotificationChannel.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Interfaces\\LNINotificationChannel.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\Interfaces\\LNINotificationChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:05:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:00:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplePay.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\ApplePay.cs",
-              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentMethods\\ApplePay.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\ApplePay.cs",
-              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentMethods\\ApplePay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "LNHome.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:42:45.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LNIPaymentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Interfaces\\LNIPaymentMethods.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\Interfaces\\LNIPaymentMethods.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\Interfaces\\LNIPaymentMethods.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\Interfaces\\LNIPaymentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:05:08.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LNApplePay.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNApplePay.cs",
+              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNApplePay.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNApplePay.cs",
+              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNApplePay.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T16:00:13.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LNGooglePay.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNGooglePay.cs",
               "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNGooglePay.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNGooglePay.cs",
               "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNGooglePay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:59:57.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "LNPayPal.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNPayPal.cs",
               "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNPayPal.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentMethods\\LNPayPal.cs",
               "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentMethods\\LNPayPal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:59:31.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LNHome.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
-              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
-              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\LNHome.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:42:45.183Z",
               "EditorCaption": ""
             }
           ]

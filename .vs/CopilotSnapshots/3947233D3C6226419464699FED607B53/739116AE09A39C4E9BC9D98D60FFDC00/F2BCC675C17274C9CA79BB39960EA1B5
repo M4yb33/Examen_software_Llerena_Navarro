@@ -1,0 +1,51 @@
+﻿using System;
+using Examen_software_Llerena_Navarro.Interfaces;
+using Examen_software_Llerena_Navarro.Services;
+
+namespace Examen_software_Llerena_Navarro.PaymentMethods
+{
+    internal class LNApplePay : LNIPaymentMethods
+    {
+        public decimal Amount { get; set; }
+        public string PaymentType { get; set; }
+        public string ApplePayAccount { get; set; }
+        public string TransactionId { get; set; }
+
+        // Constructor
+        public LNApplePay(decimal amount, string paymentType, string applePayAccount, string transactionId)
+        {
+            Amount = amount;
+            PaymentType = paymentType;
+            ApplePayAccount = applePayAccount;
+            TransactionId = transactionId;
+        }
+
+        // Implementación del método ProcessPayment
+        public bool ProcessPayment(out string resultMessage)
+        {
+            // Simulamos un proceso de pago
+            try
+            {
+                // Validar los datos antes de proceder (como ejemplo)
+                if (string.IsNullOrEmpty(ApplePayAccount))
+                {
+                    resultMessage = "La cuenta de Apple Pay no está configurada.";
+                    ConsoleOutputService.DisplayError(resultMessage);
+                    return false; // Pago fallido
+                }
+
+                // Si todo es válido, procesamos el pago
+                resultMessage = $"Pago de {Amount} realizado con éxito usando Apple Pay. ID de transacción: {TransactionId}";
+                ConsoleOutputService.DisplaySuccess(resultMessage);
+                return true; // Pago exitoso
+            }
+            catch (Exception ex)
+            {
+                // Si hay algún error, mostramos el mensaje correspondiente
+                resultMessage = $"Error al procesar el pago: {ex.Message}";
+                ConsoleOutputService.DisplayError(resultMessage);
+                return false; // Pago fallido
+            }
+        }
+    }
+}
