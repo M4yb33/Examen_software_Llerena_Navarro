@@ -1,0 +1,5 @@
+C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.AssemblyInfo.cs
+C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Visual Studio 2022\Examen_software_Llerena_Navarro\Examen_software_Llerena_Navarro\obj\Debug\net8.0\Examen_software_Llerena_Navarro.sourcelink.json

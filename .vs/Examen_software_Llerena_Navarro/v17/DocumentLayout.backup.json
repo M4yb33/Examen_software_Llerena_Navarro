@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\lnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|c:\\users\\gabri\\documents\\visual studio 2022\\examen_software_llerena_navarro\\examen_software_llerena_navarro\\paymentprocessingsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E44C09-F53B-406C-94D0-6BC48DAEBAED}|Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro.csproj|solutionrelative:examen_software_llerena_navarro\\paymentprocessingsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +35,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
-              "RelativeDocumentMoniker": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\Visual Studio 2022\\Examen_software_Llerena_Navarro\\Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
-              "RelativeToolTip": "Examen_software_Llerena_Navarro\\PaymentProcessingSystem\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:00:24.905Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
